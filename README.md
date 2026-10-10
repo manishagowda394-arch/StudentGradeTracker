@@ -1,1 +1,1 @@
-https://github.com/manishagowda394-arch/codealpha_tasks.
+codealpha_tasks.
